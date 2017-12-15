@@ -14,15 +14,12 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
-			
-			some conflicting changes 
-			
 <<<<<<< HEAD
-			real trouble problems
+			Just some content			
 =======
-			conflicting from branches
->>>>>>> fb adding some troble to simple
+			Just some content
+			adding some minor changes
+>>>>>>> e2057d694999bf97e5c32d2dcd51f2a0121bbe32
 		</p>
 	</main>
 	<footer class="container">
